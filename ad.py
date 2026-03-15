@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 
-st.title("General Knowledge Bot")
+st.title("HAIFAN SMART BOT")
 
 st.caption("Ask me absolutely anything!")
 
